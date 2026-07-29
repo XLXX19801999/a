@@ -1,0 +1,910 @@
+{
+    "sessionId": "sess_1785362001718",
+    "category": "CAMERA",
+    "totalChunks": 129,
+    "chunks": [
+        {
+            "chunkId": "69671b72-d0dd-4caf-a697-8a86a583a070",
+            "status": "PENDING",
+            "filesCount": 1,
+            "sizeMB": 525,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "50307130-c3f9-4a4e-8de8-b023a67b2e4f",
+            "status": "PENDING",
+            "filesCount": 191,
+            "sizeMB": 499,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "772688bf-1320-4bc6-a374-2ca2c5d3e060",
+            "status": "PENDING",
+            "filesCount": 147,
+            "sizeMB": 469,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "cc4779df-05d8-4f87-9516-1ef3ae9d7288",
+            "status": "PENDING",
+            "filesCount": 4,
+            "sizeMB": 145,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "f341d82a-7e89-42d5-8b2a-2f21526af789",
+            "status": "PENDING",
+            "filesCount": 1,
+            "sizeMB": 752,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "fe1aa985-a666-44a8-a552-b7e459510e13",
+            "status": "PENDING",
+            "filesCount": 171,
+            "sizeMB": 499,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "03cb95ac-4aba-4f15-ac37-cd5a69b962ad",
+            "status": "PENDING",
+            "filesCount": 115,
+            "sizeMB": 367,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "97af4e18-b33e-4412-8340-83cfadfcc569",
+            "status": "PENDING",
+            "filesCount": 40,
+            "sizeMB": 489,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "97b7cd97-2f42-4adb-86fa-62ef4c6d1036",
+            "status": "PENDING",
+            "filesCount": 99,
+            "sizeMB": 482,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "9c5851c2-bf75-47bd-ab4a-aa8335047b98",
+            "status": "PENDING",
+            "filesCount": 42,
+            "sizeMB": 492,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "6c433615-c2cf-4474-a0d7-c64c47759b33",
+            "status": "PENDING",
+            "filesCount": 96,
+            "sizeMB": 486,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "50a46d7f-ed2a-45ea-a2e2-3421fd023b99",
+            "status": "PENDING",
+            "filesCount": 70,
+            "sizeMB": 475,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "6e418b0a-e2ed-4f9c-8375-4b44712843cf",
+            "status": "PENDING",
+            "filesCount": 16,
+            "sizeMB": 490,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "c17827bb-d515-4130-8f6a-2eb5bbf9f9b4",
+            "status": "PENDING",
+            "filesCount": 66,
+            "sizeMB": 352,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "5a123448-46eb-4070-95e3-063375b2fc55",
+            "status": "PENDING",
+            "filesCount": 35,
+            "sizeMB": 412,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "415f8ff2-2530-444e-9885-7889b1bc7432",
+            "status": "PENDING",
+            "filesCount": 47,
+            "sizeMB": 498,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "3be68efa-2e1f-484a-ab4d-1eff92f4c5e3",
+            "status": "PENDING",
+            "filesCount": 98,
+            "sizeMB": 497,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "bb60f89d-dd6f-40d7-aef6-62b24efbd3c1",
+            "status": "PENDING",
+            "filesCount": 56,
+            "sizeMB": 494,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "181ea7cb-4b74-43aa-8697-37c606c5682d",
+            "status": "PENDING",
+            "filesCount": 29,
+            "sizeMB": 237,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "cb864b8a-7fd8-49c6-a80c-40afccc52adc",
+            "status": "PENDING",
+            "filesCount": 1,
+            "sizeMB": 1010,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "85cca268-9ba1-4175-8f6b-38f579429317",
+            "status": "PENDING",
+            "filesCount": 5,
+            "sizeMB": 318,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "dd7fa1a1-b2a1-493d-8e01-c46482337322",
+            "status": "PENDING",
+            "filesCount": 17,
+            "sizeMB": 498,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "8f1d9f29-499b-4c01-bf69-f786178ccdcd",
+            "status": "PENDING",
+            "filesCount": 37,
+            "sizeMB": 497,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "73b32f36-9710-4fc8-9108-3fd1425fc249",
+            "status": "PENDING",
+            "filesCount": 24,
+            "sizeMB": 326,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "e0e28c1d-db01-4237-af2d-cdd41f8e6f41",
+            "status": "PENDING",
+            "filesCount": 239,
+            "sizeMB": 1018,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "932426ae-b66b-487b-a2ec-eb8750590151",
+            "status": "PENDING",
+            "filesCount": 130,
+            "sizeMB": 989,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "df87f1dc-34c8-409a-8a4a-a4982e81058e",
+            "status": "PENDING",
+            "filesCount": 197,
+            "sizeMB": 850,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "64582f06-0c87-4c6e-b44e-ed2e64fefedb",
+            "status": "PENDING",
+            "filesCount": 12,
+            "sizeMB": 508,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "a90b9eed-7719-4524-96c7-3ed3659aa9f6",
+            "status": "PENDING",
+            "filesCount": 1,
+            "sizeMB": 896,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "9825ef44-1f88-48e5-8e94-4c7244108014",
+            "status": "PENDING",
+            "filesCount": 191,
+            "sizeMB": 1022,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "7662afc6-5669-48f2-b031-f67cb2017279",
+            "status": "PENDING",
+            "filesCount": 152,
+            "sizeMB": 617,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "eb416f3e-4bc0-442b-a4a4-7f468913b14a",
+            "status": "PENDING",
+            "filesCount": 83,
+            "sizeMB": 1022,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "192cabb3-49ff-4b14-af04-46f65f3d203c",
+            "status": "PENDING",
+            "filesCount": 237,
+            "sizeMB": 1016,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "3be0dadd-f67f-46b6-b167-3710d4a5c3ed",
+            "status": "PENDING",
+            "filesCount": 140,
+            "sizeMB": 1023,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "6533ba99-093a-468e-a89a-0c593fac4434",
+            "status": "PENDING",
+            "filesCount": 174,
+            "sizeMB": 983,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "1a50bda1-283c-4de9-8a66-81fd04cff4fa",
+            "status": "PENDING",
+            "filesCount": 82,
+            "sizeMB": 842,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "9d80b2c5-4ea9-41aa-8205-79df20c6a526",
+            "status": "PENDING",
+            "filesCount": 119,
+            "sizeMB": 1011,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "8c44b073-d627-4fee-bb03-9aafe2d3fff7",
+            "status": "PENDING",
+            "filesCount": 138,
+            "sizeMB": 1008,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "f13a2ed7-363d-4c76-aaf8-fb0d07530561",
+            "status": "PENDING",
+            "filesCount": 8,
+            "sizeMB": 119,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "9acf1f45-30d1-43ed-a297-a11a983cf70e",
+            "status": "PENDING",
+            "filesCount": 2,
+            "sizeMB": 1013,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "1518d895-9d11-45f8-9d96-32ff9ad2694b",
+            "status": "PENDING",
+            "filesCount": 34,
+            "sizeMB": 1014,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "bb238ba0-251f-4999-bc16-a9c0360553f1",
+            "status": "PENDING",
+            "filesCount": 48,
+            "sizeMB": 622,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "f0ea0334-bc38-4340-8eec-8611b273c9ff",
+            "status": "PENDING",
+            "filesCount": 239,
+            "sizeMB": 1018,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "8079433b-6737-41ba-9bd3-03060f7a4e83",
+            "status": "PENDING",
+            "filesCount": 130,
+            "sizeMB": 989,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "3a29e950-73ef-4227-9213-c0ebc7e6b76f",
+            "status": "PENDING",
+            "filesCount": 197,
+            "sizeMB": 850,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "6a9643fc-7032-4ab4-bb9c-fee526c8db4b",
+            "status": "PENDING",
+            "filesCount": 12,
+            "sizeMB": 508,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "c9bef6c8-2980-4abc-a815-575e67b17742",
+            "status": "PENDING",
+            "filesCount": 1,
+            "sizeMB": 896,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "c0024fb5-6fba-4536-9da5-bbeaa62729f0",
+            "status": "PENDING",
+            "filesCount": 191,
+            "sizeMB": 1022,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "eedb2e33-4475-4dd0-b5a4-74ad401adf89",
+            "status": "PENDING",
+            "filesCount": 152,
+            "sizeMB": 617,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "c830b624-0fe7-4c18-88dc-11a45749c4f8",
+            "status": "PENDING",
+            "filesCount": 83,
+            "sizeMB": 1022,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "eba9a20b-12b2-4a0a-913c-1289ded57494",
+            "status": "PENDING",
+            "filesCount": 237,
+            "sizeMB": 1016,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "db3644a6-dcf9-47dc-b7b0-d5cf4df6f645",
+            "status": "PENDING",
+            "filesCount": 140,
+            "sizeMB": 1023,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "1bbde5c1-870c-487d-8491-f04359a713f9",
+            "status": "PENDING",
+            "filesCount": 174,
+            "sizeMB": 983,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "24ca6d25-8b65-4680-939c-05d188c85f6a",
+            "status": "PENDING",
+            "filesCount": 82,
+            "sizeMB": 842,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "7b5515bc-8ce6-491b-b0ff-94224d0a9146",
+            "status": "PENDING",
+            "filesCount": 119,
+            "sizeMB": 1011,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "1ce0a856-547d-4be9-a0e7-d489c4037306",
+            "status": "PENDING",
+            "filesCount": 138,
+            "sizeMB": 1008,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "698e1db9-6101-410d-9a04-a8255379fced",
+            "status": "PENDING",
+            "filesCount": 8,
+            "sizeMB": 119,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "e5f3d7a2-be10-4192-857a-96862529e374",
+            "status": "PENDING",
+            "filesCount": 2,
+            "sizeMB": 1013,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "6b2851ba-8d02-4da4-8bbc-cf0840854a11",
+            "status": "PENDING",
+            "filesCount": 34,
+            "sizeMB": 1014,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "d3f2a731-1854-4399-bae7-4a1bf13b3c26",
+            "status": "PENDING",
+            "filesCount": 48,
+            "sizeMB": 622,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "8bc067d6-e165-4a4e-9b03-1f5d80f2fff9",
+            "status": "PENDING",
+            "filesCount": 239,
+            "sizeMB": 1018,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "33ccd055-475d-4d75-8383-af8eb56056d6",
+            "status": "PENDING",
+            "filesCount": 130,
+            "sizeMB": 989,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "d157e022-b53a-4768-bdbb-6416ce3e445a",
+            "status": "PENDING",
+            "filesCount": 197,
+            "sizeMB": 850,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "a5cb748d-c927-44d2-8481-c10924a9e8d3",
+            "status": "PENDING",
+            "filesCount": 12,
+            "sizeMB": 508,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "b1f2de01-2492-4879-aa77-5feeb61889e0",
+            "status": "PENDING",
+            "filesCount": 1,
+            "sizeMB": 896,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "f3cdbff9-fb76-45e6-8f04-3ba9d2c2fbb4",
+            "status": "PENDING",
+            "filesCount": 191,
+            "sizeMB": 1022,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "7a08d770-17db-438d-8a67-643e8d1e70cc",
+            "status": "PENDING",
+            "filesCount": 152,
+            "sizeMB": 617,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "4f781012-4f9c-4415-8c42-560fccf720ee",
+            "status": "PENDING",
+            "filesCount": 83,
+            "sizeMB": 1022,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "655d5a03-0df3-4086-83b0-8dec8e92b380",
+            "status": "PENDING",
+            "filesCount": 237,
+            "sizeMB": 1016,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "efd546ee-8bf8-4cf8-be7e-3c966ee998ae",
+            "status": "PENDING",
+            "filesCount": 140,
+            "sizeMB": 1023,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "df06ee2a-b2a6-43f4-ae15-9480ce8a7566",
+            "status": "PENDING",
+            "filesCount": 174,
+            "sizeMB": 983,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "f3887bad-4268-492a-8ef5-1cca186099e1",
+            "status": "PENDING",
+            "filesCount": 82,
+            "sizeMB": 842,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "630bc5a5-53c9-4d72-b0b8-bc2c902173c7",
+            "status": "PENDING",
+            "filesCount": 119,
+            "sizeMB": 1011,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "f85018ba-67a6-4183-a0c8-77c9e5185a68",
+            "status": "PENDING",
+            "filesCount": 138,
+            "sizeMB": 1008,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "2db4e83e-3cad-4ae1-9712-849478bf55e2",
+            "status": "PENDING",
+            "filesCount": 8,
+            "sizeMB": 119,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "6e767b5b-ea38-441d-9a35-137ba43a392b",
+            "status": "PENDING",
+            "filesCount": 2,
+            "sizeMB": 1013,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "31c60b69-8059-4487-b815-f21ffbce83e4",
+            "status": "PENDING",
+            "filesCount": 34,
+            "sizeMB": 1014,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "6024b3a3-8dc9-4d34-806b-a95151228c94",
+            "status": "PENDING",
+            "filesCount": 48,
+            "sizeMB": 622,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "7beecb28-1085-4f1e-9474-a981b9bda116",
+            "status": "PENDING",
+            "filesCount": 239,
+            "sizeMB": 1018,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "507e7c3a-aa91-41d0-b32d-fb0806080e73",
+            "status": "PENDING",
+            "filesCount": 130,
+            "sizeMB": 989,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "0c77be7d-a4df-4a1d-832d-6e58e1e0b217",
+            "status": "PENDING",
+            "filesCount": 197,
+            "sizeMB": 850,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "4fe423cc-7d21-4121-9755-ac951258998b",
+            "status": "PENDING",
+            "filesCount": 12,
+            "sizeMB": 508,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "112777bf-bf1f-43a4-a0c7-b2e2fc4674c5",
+            "status": "PENDING",
+            "filesCount": 1,
+            "sizeMB": 896,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "30741798-1a55-487e-aab9-b603fc7468bc",
+            "status": "PENDING",
+            "filesCount": 191,
+            "sizeMB": 1022,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "76460f36-b081-4e03-847b-9eaaeffdb1a5",
+            "status": "PENDING",
+            "filesCount": 152,
+            "sizeMB": 617,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "74e28445-9af9-4f5f-931d-9ffe2f2c2fe9",
+            "status": "PENDING",
+            "filesCount": 83,
+            "sizeMB": 1022,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "a483aeea-2464-4e7c-ae5f-5932095d5f81",
+            "status": "PENDING",
+            "filesCount": 237,
+            "sizeMB": 1016,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "d7467ba1-8f53-4aec-92e7-a887470958e0",
+            "status": "PENDING",
+            "filesCount": 140,
+            "sizeMB": 1023,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "b29db29f-4c54-4232-9c6a-b2e9fce2f2a6",
+            "status": "PENDING",
+            "filesCount": 174,
+            "sizeMB": 983,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "7d90599e-6d6e-4b8d-9bc7-12d9ebea0b34",
+            "status": "PENDING",
+            "filesCount": 82,
+            "sizeMB": 842,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "acbda5a8-c7e3-4da2-ad71-151075cc0326",
+            "status": "PENDING",
+            "filesCount": 119,
+            "sizeMB": 1011,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "270fd62c-2ad6-48b8-ad4d-0d6b02170acf",
+            "status": "PENDING",
+            "filesCount": 138,
+            "sizeMB": 1008,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "6cfae1ae-d85b-4c7a-986e-d6e995d535b9",
+            "status": "PENDING",
+            "filesCount": 8,
+            "sizeMB": 119,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "965a0ca9-91fc-4878-ad9d-bb2b8c69a9ab",
+            "status": "PENDING",
+            "filesCount": 2,
+            "sizeMB": 1013,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "5863fa0b-8b0c-4de2-9ad2-80a9b4be584a",
+            "status": "PENDING",
+            "filesCount": 34,
+            "sizeMB": 1014,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "9c4f2d98-a14f-402b-a0a0-ab658d909036",
+            "status": "PENDING",
+            "filesCount": 48,
+            "sizeMB": 622,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "5e206073-2595-4df7-b463-3d18936f5331",
+            "status": "PENDING",
+            "filesCount": 148,
+            "sizeMB": 497,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "176ed831-273c-4343-8498-700969c0103d",
+            "status": "PENDING",
+            "filesCount": 90,
+            "sizeMB": 444,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "65610b28-28d0-4da0-b2e5-e1a7763cf95f",
+            "status": "PENDING",
+            "filesCount": 88,
+            "sizeMB": 493,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "12cdf9b7-5349-4911-bab7-f6a318191d9a",
+            "status": "PENDING",
+            "filesCount": 34,
+            "sizeMB": 496,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "00ab86ff-1972-4126-8fb1-e972b61e6fb2",
+            "status": "PENDING",
+            "filesCount": 116,
+            "sizeMB": 499,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "8f93fed3-264c-4f01-a6bd-5378efc003fb",
+            "status": "PENDING",
+            "filesCount": 90,
+            "sizeMB": 426,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "8ccf1bf3-5ce7-4eed-9fc3-c5d261d21f04",
+            "status": "PENDING",
+            "filesCount": 8,
+            "sizeMB": 453,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "4754ffd1-3535-4422-9860-71e0a1cad035",
+            "status": "PENDING",
+            "filesCount": 4,
+            "sizeMB": 54,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "540356ee-e541-449a-803a-210ff6877bef",
+            "status": "PENDING",
+            "filesCount": 1,
+            "sizeMB": 896,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "9d5cfc5d-17fc-4b9b-8cfd-279065c163fe",
+            "status": "PENDING",
+            "filesCount": 1,
+            "sizeMB": 525,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "2f029476-239e-457b-ab85-efce741bd9b3",
+            "status": "PENDING",
+            "filesCount": 191,
+            "sizeMB": 499,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "4340c629-662b-4cb6-ba6d-5d16ce67a9b6",
+            "status": "PENDING",
+            "filesCount": 147,
+            "sizeMB": 469,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "5e902396-232a-4277-b24d-58b528affb7d",
+            "status": "PENDING",
+            "filesCount": 4,
+            "sizeMB": 145,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "5e308328-d855-45d8-b8cd-89c38936253d",
+            "status": "PENDING",
+            "filesCount": 1,
+            "sizeMB": 752,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "283999b9-2b25-4453-a318-db83ef13686a",
+            "status": "PENDING",
+            "filesCount": 171,
+            "sizeMB": 499,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "a46f048a-27fe-4086-ac9c-347b222c1196",
+            "status": "PENDING",
+            "filesCount": 115,
+            "sizeMB": 367,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "96767b04-f7f4-490d-9978-8e3c4772491d",
+            "status": "PENDING",
+            "filesCount": 40,
+            "sizeMB": 489,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "2da32431-297f-496e-a7d2-8d52f60933b3",
+            "status": "PENDING",
+            "filesCount": 99,
+            "sizeMB": 482,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "d5f6419d-ef5d-4edb-9ca2-fb1cbaea12fe",
+            "status": "PENDING",
+            "filesCount": 42,
+            "sizeMB": 492,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "d9306179-74bb-4280-a790-2c8b9e6e2eef",
+            "status": "PENDING",
+            "filesCount": 96,
+            "sizeMB": 486,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "e522f11e-0ea0-4e41-8e82-f4d865d93cf7",
+            "status": "PENDING",
+            "filesCount": 70,
+            "sizeMB": 475,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "ea5ecadd-2893-4ba5-8acf-6aee24af9344",
+            "status": "PENDING",
+            "filesCount": 16,
+            "sizeMB": 490,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "ab78b219-dfd8-4ea3-9a89-15030aefff6c",
+            "status": "PENDING",
+            "filesCount": 66,
+            "sizeMB": 352,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "ebf1fc36-aea3-45a4-932d-d96214e88b9a",
+            "status": "PENDING",
+            "filesCount": 35,
+            "sizeMB": 412,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "f3c52e0e-ffc7-4690-912e-f9712643792e",
+            "status": "PENDING",
+            "filesCount": 47,
+            "sizeMB": 498,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "b6a97ee4-a417-4b15-b799-26e086ac24ad",
+            "status": "PENDING",
+            "filesCount": 98,
+            "sizeMB": 497,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "50ff52a0-93e5-477c-be52-86451cf65d86",
+            "status": "PENDING",
+            "filesCount": 56,
+            "sizeMB": 494,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "b2062104-42fe-454f-bfef-292f41a7f9c3",
+            "status": "PENDING",
+            "filesCount": 29,
+            "sizeMB": 237,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "cac6f5cb-6ec7-4c6c-8e03-a6ab7f8645d7",
+            "status": "PENDING",
+            "filesCount": 1,
+            "sizeMB": 1010,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "7093da2b-8e99-4538-955d-f98efe16d942",
+            "status": "PENDING",
+            "filesCount": 5,
+            "sizeMB": 318,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "c3ba3861-a085-4adc-8e1d-abc2a37ffadd",
+            "status": "PENDING",
+            "filesCount": 17,
+            "sizeMB": 498,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "7f909d87-7694-46da-ac53-7527bd6ff448",
+            "status": "PENDING",
+            "filesCount": 37,
+            "sizeMB": 497,
+            "goFileUrl": ""
+        },
+        {
+            "chunkId": "bde3d771-81fd-421e-b7f1-dce1faf928c9",
+            "status": "PENDING",
+            "filesCount": 24,
+            "sizeMB": 326,
+            "goFileUrl": ""
+        }
+    ]
+}
