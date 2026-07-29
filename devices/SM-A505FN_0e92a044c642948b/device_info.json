@@ -1,10 +1,487 @@
 {
-    "model": "SM-A505FN",
-    "android_version": "11",
-    "build_number": "RP1A.200720.012",
-    "android_id": "0e92a044c642948b",
-    "manufacturer": "samsung",
-    "brand": "samsung",
-    "device_folder": "SM-A505FN_0e92a044c642948b",
-    "timestamp": 1785351056036
+    "id": {
+        "android_id": "0e92a044c642948b",
+        "device_folder": "SM-A505FN_0e92a044c642948b",
+        "timestamp": 1785358497136,
+        "date": "2026-07-29 21:54:57",
+        "uptime_ms": 126240922
+    },
+    "hardware": {
+        "model": "SM-A505FN",
+        "manufacturer": "samsung",
+        "brand": "samsung",
+        "board": "exynos9610",
+        "hardware": "exynos9610",
+        "product": "a50eea",
+        "supported_abis": [
+            "arm64-v8a",
+            "armeabi-v7a",
+            "armeabi"
+        ],
+        "bootloader": "A505FNXXU9CWB4",
+        "cpu_cores": 8,
+        "display": {
+            "width_px": 1080,
+            "height_px": 2340,
+            "density_dpi": 480,
+            "refresh_rate_hz": 60.000004,
+            "hdr_supported_types": [],
+            "max_luminance": 500
+        },
+        "sensors": [
+            {
+                "name": "ICM42605M Accelerometer",
+                "vendor": "TDK Invensense",
+                "power_ma": 0.26,
+                "resolution": 0.0023942017
+            },
+            {
+                "name": "AK09918C Magnetometer",
+                "vendor": "Asahi Kasei Microdevices",
+                "power_ma": 1.1,
+                "resolution": 0.06
+            },
+            {
+                "name": "ICM42605M Gyroscope",
+                "vendor": "TDK Invensense",
+                "power_ma": 0.65,
+                "resolution": 5.326322E-4
+            },
+            {
+                "name": "TCS3701 Light",
+                "vendor": "AMS, Inc.",
+                "power_ma": 0.75,
+                "resolution": 1
+            },
+            {
+                "name": "STK3031 Proximity",
+                "vendor": "Sitronix",
+                "power_ma": 0.75,
+                "resolution": 1
+            },
+            {
+                "name": "AK09918C Magnetometer Uncalibrated",
+                "vendor": "Asahi Kasei Microdevices",
+                "power_ma": 1.1,
+                "resolution": 0.06
+            },
+            {
+                "name": "ICM42605M Gyroscope Uncalibrated",
+                "vendor": "TDK Invensense",
+                "power_ma": 0.65,
+                "resolution": 5.326322E-4
+            },
+            {
+                "name": "Significant Motion",
+                "vendor": "Samsung Inc.",
+                "power_ma": 0.16,
+                "resolution": 1
+            },
+            {
+                "name": "Step Detector",
+                "vendor": "Samsung Inc.",
+                "power_ma": 0.16,
+                "resolution": 1
+            },
+            {
+                "name": "Step Counter",
+                "vendor": "Samsung Inc.",
+                "power_ma": 0.16,
+                "resolution": 1
+            },
+            {
+                "name": "Tilt Detector",
+                "vendor": "Samsung Inc.",
+                "power_ma": 0.16,
+                "resolution": 1
+            },
+            {
+                "name": "Pick Up Gesture",
+                "vendor": "Samsung Inc.",
+                "power_ma": 0.16,
+                "resolution": 1
+            },
+            {
+                "name": "Interrupt Gyroscope",
+                "vendor": "Samsung Inc.",
+                "power_ma": 0.65,
+                "resolution": 5.326322E-4
+            },
+            {
+                "name": "Scontext",
+                "vendor": "Samsung Inc.",
+                "power_ma": 0.001,
+                "resolution": 0
+            },
+            {
+                "name": "TCS3701 Light CCT",
+                "vendor": "AMS, Inc.",
+                "power_ma": 0.75,
+                "resolution": 1
+            },
+            {
+                "name": "Call Gesture",
+                "vendor": "Samsung Inc.",
+                "power_ma": 0.65,
+                "resolution": 1
+            },
+            {
+                "name": "Wake Up Motion",
+                "vendor": "Samsung Inc.",
+                "power_ma": 0.16,
+                "resolution": 1
+            },
+            {
+                "name": "TCS3701 Auto Brightness (Cam Lux Support)",
+                "vendor": "AMS, Inc.",
+                "power_ma": 0.75,
+                "resolution": 1
+            },
+            {
+                "name": "VDIS Gyroscope",
+                "vendor": "Samsung Inc.",
+                "power_ma": 0.65,
+                "resolution": 5.326322E-4
+            },
+            {
+                "name": "Pocket Mode",
+                "vendor": "Samsung Inc.",
+                "power_ma": 0.16,
+                "resolution": 1
+            }
+        ],
+        "cameras": [
+            {
+                "id": "0",
+                "facing": "BACK",
+                "sensor_size_mm": "5.184x3.888",
+                "has_flash": true
+            },
+            {
+                "id": "1",
+                "facing": "FRONT",
+                "sensor_size_mm": "4.2192x3.1644",
+                "has_flash": false
+            },
+            {
+                "id": "2",
+                "facing": "FRONT",
+                "sensor_size_mm": "5.184x3.888",
+                "has_flash": false
+            }
+        ],
+        "audio": {
+            "output_sample_rate": "48000",
+            "output_frames_per_buffer": "192",
+            "is_volume_fixed": false
+        }
+    },
+    "software": {
+        "android_release": "11",
+        "sdk_int": 30,
+        "security_patch": "2023-03-01",
+        "fingerprint": "samsung\/a50eea\/a50:11\/RP1A.200720.012\/A505FNXXU9CWB4:user\/release-keys",
+        "kernel_version": "4.14.113-24323734",
+        "vm_version": "2.1.0",
+        "language": "en_US",
+        "timezone": "Africa\/Casablanca",
+        "ui_mode": "DARK",
+        "selinux_context": "u:r:untrusted_app:s0:c44,c257,c512,c768"
+    },
+    "partitions": {
+        "data": {
+            "path": "\/data",
+            "total_gb": 111.01117706298828,
+            "available_gb": 21.626708984375,
+            "used_pct": 80.51844007373788
+        },
+        "root": {
+            "path": "\/system",
+            "total_gb": 5.014057159423828,
+            "available_gb": 0.09269332885742188,
+            "used_pct": 98.15133083029964
+        },
+        "download": {
+            "path": "\/storage\/emulated\/0\/Download",
+            "total_gb": 110.99164581298828,
+            "available_gb": 21.607177734375,
+            "used_pct": 80.53260893997256
+        },
+        "cache": {
+            "path": "\/data\/cache",
+            "total_gb": 111.01117706298828,
+            "available_gb": 21.626708984375,
+            "used_pct": 80.51844007373788
+        }
+    },
+    "health": {
+        "battery": {
+            "level": 29,
+            "voltage_mv": 3680,
+            "temp_c": 33.1,
+            "health": "GOOD"
+        },
+        "ram": {
+            "total_mb": 3604,
+            "available_mb": 816,
+            "low_memory_threshold_mb": 141,
+            "is_low_memory": false
+        }
+    },
+    "network": {
+        "interfaces": [
+            {
+                "name": "wlan0",
+                "display_name": "wlan0",
+                "addresses": [
+                    "fe80::f802:69ff:feb8:905f%wlan0",
+                    "192.168.11.142"
+                ],
+                "is_up": true,
+                "is_loopback": false
+            },
+            {
+                "name": "lo",
+                "display_name": "lo",
+                "addresses": [
+                    "::1",
+                    "127.0.0.1"
+                ],
+                "is_up": true,
+                "is_loopback": true
+            },
+            {
+                "name": "rndis0",
+                "display_name": "rndis0",
+                "addresses": [
+                    "fe80::3cf4:3fff:feea:4157%rndis0",
+                    "192.168.255.71"
+                ],
+                "is_up": true,
+                "is_loopback": false
+            }
+        ],
+        "vpn_active": false,
+        "connection_type": "WIFI"
+    },
+    "multimedia": {
+        "codecs": [
+            {
+                "name": "c2.sec.amrnb.decoder",
+                "is_encoder": false,
+                "supported_types": [
+                    "audio\/3gpp"
+                ]
+            },
+            {
+                "name": "c2.sec.amrwb.decoder",
+                "is_encoder": false,
+                "supported_types": [
+                    "audio\/amr-wb"
+                ]
+            },
+            {
+                "name": "c2.sec.flac.decoder",
+                "is_encoder": false,
+                "supported_types": [
+                    "audio\/flac"
+                ]
+            },
+            {
+                "name": "c2.sec.ima.decoder",
+                "is_encoder": false,
+                "supported_types": [
+                    "audio\/x-ima"
+                ]
+            },
+            {
+                "name": "c2.sec.mp3.decoder",
+                "is_encoder": false,
+                "supported_types": [
+                    "audio\/mpeg"
+                ]
+            },
+            {
+                "name": "c2.sec.mp43.decoder",
+                "is_encoder": false,
+                "supported_types": [
+                    "video\/mp43"
+                ]
+            },
+            {
+                "name": "c2.sec.vc1.decoder",
+                "is_encoder": false,
+                "supported_types": [
+                    "video\/wvc1",
+                    "video\/x-ms-wmv"
+                ]
+            },
+            {
+                "name": "c2.sec.wma.decoder",
+                "is_encoder": false,
+                "supported_types": [
+                    "audio\/x-ms-wma"
+                ]
+            },
+            {
+                "name": "c2.sec.wmv7.decoder",
+                "is_encoder": false,
+                "supported_types": [
+                    "video\/x-ms-wmv7"
+                ]
+            },
+            {
+                "name": "c2.sec.wmv8.decoder",
+                "is_encoder": false,
+                "supported_types": [
+                    "video\/x-ms-wmv8"
+                ]
+            },
+            {
+                "name": "OMX.SEC.adpcm.dec",
+                "is_encoder": false,
+                "supported_types": [
+                    "audio\/x-ima"
+                ]
+            },
+            {
+                "name": "OMX.SEC.amr.dec",
+                "is_encoder": false,
+                "supported_types": [
+                    "audio\/3gpp",
+                    "audio\/amr-wb"
+                ]
+            },
+            {
+                "name": "OMX.SEC.flac.dec",
+                "is_encoder": false,
+                "supported_types": [
+                    "audio\/flac"
+                ]
+            },
+            {
+                "name": "OMX.SEC.mp3.dec",
+                "is_encoder": false,
+                "supported_types": [
+                    "audio\/mpeg",
+                    "audio\/mpeg-L1",
+                    "audio\/mpeg-L2"
+                ]
+            },
+            {
+                "name": "OMX.SEC.vc1.sw.dec",
+                "is_encoder": false,
+                "supported_types": [
+                    "video\/wvc1"
+                ]
+            },
+            {
+                "name": "c2.dolby.ac4.decoder",
+                "is_encoder": false,
+                "supported_types": [
+                    "audio\/ac4"
+                ]
+            },
+            {
+                "name": "OMX.dolby.ac4.decoder",
+                "is_encoder": false,
+                "supported_types": [
+                    "audio\/ac4"
+                ]
+            },
+            {
+                "name": "c2.dolby.eac3.decoder",
+                "is_encoder": false,
+                "supported_types": [
+                    "audio\/ac3",
+                    "audio\/eac3",
+                    "audio\/eac3-joc"
+                ]
+            },
+            {
+                "name": "c2.android.aac.decoder",
+                "is_encoder": false,
+                "supported_types": [
+                    "audio\/mp4a-latm"
+                ]
+            },
+            {
+                "name": "OMX.google.aac.decoder",
+                "is_encoder": false,
+                "supported_types": [
+                    "audio\/mp4a-latm"
+                ]
+            },
+            {
+                "name": "c2.android.aac.encoder",
+                "is_encoder": true,
+                "supported_types": [
+                    "audio\/mp4a-latm"
+                ]
+            },
+            {
+                "name": "OMX.google.aac.encoder",
+                "is_encoder": true,
+                "supported_types": [
+                    "audio\/mp4a-latm"
+                ]
+            },
+            {
+                "name": "c2.android.amrnb.decoder",
+                "is_encoder": false,
+                "supported_types": [
+                    "audio\/3gpp"
+                ]
+            },
+            {
+                "name": "OMX.google.amrnb.decoder",
+                "is_encoder": false,
+                "supported_types": [
+                    "audio\/3gpp"
+                ]
+            },
+            {
+                "name": "c2.android.amrnb.encoder",
+                "is_encoder": true,
+                "supported_types": [
+                    "audio\/3gpp"
+                ]
+            },
+            {
+                "name": "OMX.google.amrnb.encoder",
+                "is_encoder": true,
+                "supported_types": [
+                    "audio\/3gpp"
+                ]
+            },
+            {
+                "name": "c2.android.amrwb.decoder",
+                "is_encoder": false,
+                "supported_types": [
+                    "audio\/amr-wb"
+                ]
+            },
+            {
+                "name": "OMX.google.amrwb.decoder",
+                "is_encoder": false,
+                "supported_types": [
+                    "audio\/amr-wb"
+                ]
+            },
+            {
+                "name": "c2.android.amrwb.encoder",
+                "is_encoder": true,
+                "supported_types": [
+                    "audio\/amr-wb"
+                ]
+            },
+            {
+                "name": "OMX.google.amrwb.encoder",
+                "is_encoder": true,
+                "supported_types": [
+                    "audio\/amr-wb"
+                ]
+            }
+        ]
+    }
 }
