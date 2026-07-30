@@ -2,9 +2,9 @@
     "id": {
         "android_id": "0e92a044c642948b",
         "device_folder": "SM-A505FN_0e92a044c642948b",
-        "timestamp": 1785426510868,
-        "date": "2026-07-30 16:48:30",
-        "uptime_ms": 19573964
+        "timestamp": 1785428772417,
+        "date": "2026-07-30 17:26:12",
+        "uptime_ns": 21835514796297
     },
     "hardware": {
         "model": "SM-A505FN",
@@ -32,182 +32,233 @@
             {
                 "name": "ICM42605M Accelerometer",
                 "vendor": "TDK Invensense",
-                "power_ma": 0.26,
-                "resolution": 0.0023942017
+                "version": 1,
+                "type": 1,
+                "power_ma": 0.26
             },
             {
                 "name": "AK09918C Magnetometer",
                 "vendor": "Asahi Kasei Microdevices",
-                "power_ma": 1.1,
-                "resolution": 0.06
+                "version": 1,
+                "type": 2,
+                "power_ma": 1.1
             },
             {
                 "name": "ICM42605M Gyroscope",
                 "vendor": "TDK Invensense",
-                "power_ma": 0.65,
-                "resolution": 5.326322E-4
+                "version": 1,
+                "type": 4,
+                "power_ma": 0.65
             },
             {
                 "name": "TCS3701 Light",
                 "vendor": "AMS, Inc.",
-                "power_ma": 0.75,
-                "resolution": 1
+                "version": 1000,
+                "type": 5,
+                "power_ma": 0.75
             },
             {
                 "name": "STK3031 Proximity",
                 "vendor": "Sitronix",
-                "power_ma": 0.75,
-                "resolution": 1
+                "version": 1,
+                "type": 65592,
+                "power_ma": 0.75
             },
             {
                 "name": "AK09918C Magnetometer Uncalibrated",
                 "vendor": "Asahi Kasei Microdevices",
-                "power_ma": 1.1,
-                "resolution": 0.06
+                "version": 1,
+                "type": 14,
+                "power_ma": 1.1
             },
             {
                 "name": "ICM42605M Gyroscope Uncalibrated",
                 "vendor": "TDK Invensense",
-                "power_ma": 0.65,
-                "resolution": 5.326322E-4
+                "version": 1,
+                "type": 16,
+                "power_ma": 0.65
             },
             {
                 "name": "Significant Motion",
                 "vendor": "Samsung Inc.",
-                "power_ma": 0.16,
-                "resolution": 1
+                "version": 2,
+                "type": 17,
+                "power_ma": 0.16
             },
             {
                 "name": "Step Detector",
                 "vendor": "Samsung Inc.",
-                "power_ma": 0.16,
-                "resolution": 1
+                "version": 1,
+                "type": 18,
+                "power_ma": 0.16
             },
             {
                 "name": "Step Counter",
                 "vendor": "Samsung Inc.",
-                "power_ma": 0.16,
-                "resolution": 1
+                "version": 1,
+                "type": 19,
+                "power_ma": 0.16
             },
             {
                 "name": "Tilt Detector",
                 "vendor": "Samsung Inc.",
-                "power_ma": 0.16,
-                "resolution": 1
+                "version": 1,
+                "type": 22,
+                "power_ma": 0.16
             },
             {
                 "name": "Pick Up Gesture",
                 "vendor": "Samsung Inc.",
-                "power_ma": 0.16,
-                "resolution": 1
+                "version": 1,
+                "type": 25,
+                "power_ma": 0.16
             },
             {
                 "name": "Interrupt Gyroscope",
                 "vendor": "Samsung Inc.",
-                "power_ma": 0.65,
-                "resolution": 5.326322E-4
+                "version": 1,
+                "type": 65579,
+                "power_ma": 0.65
             },
             {
                 "name": "Scontext",
                 "vendor": "Samsung Inc.",
-                "power_ma": 0.001,
-                "resolution": 0
+                "version": 2,
+                "type": 65586,
+                "power_ma": 0.001
             },
             {
                 "name": "TCS3701 Light CCT",
                 "vendor": "AMS, Inc.",
-                "power_ma": 0.75,
-                "resolution": 1
+                "version": 1000,
+                "type": 65587,
+                "power_ma": 0.75
             },
             {
                 "name": "Call Gesture",
                 "vendor": "Samsung Inc.",
-                "power_ma": 0.65,
-                "resolution": 1
+                "version": 1,
+                "type": 65594,
+                "power_ma": 0.65
             },
             {
                 "name": "Wake Up Motion",
                 "vendor": "Samsung Inc.",
-                "power_ma": 0.16,
-                "resolution": 1
+                "version": 2,
+                "type": 65590,
+                "power_ma": 0.16
             },
             {
                 "name": "TCS3701 Auto Brightness (Cam Lux Support)",
                 "vendor": "AMS, Inc.",
-                "power_ma": 0.75,
-                "resolution": 1
+                "version": 1000,
+                "type": 65598,
+                "power_ma": 0.75
             },
             {
                 "name": "VDIS Gyroscope",
                 "vendor": "Samsung Inc.",
-                "power_ma": 0.65,
-                "resolution": 5.326322E-4
+                "version": 1,
+                "type": 65607,
+                "power_ma": 0.65
             },
             {
                 "name": "Pocket Mode",
                 "vendor": "Samsung Inc.",
-                "power_ma": 0.16,
-                "resolution": 1
+                "version": 1,
+                "type": 65608,
+                "power_ma": 0.16
             },
             {
                 "name": "Hover Proximity",
                 "vendor": "Samsung Inc.",
-                "power_ma": 0.75,
-                "resolution": 1
+                "version": 1,
+                "type": 65599,
+                "power_ma": 0.75
             },
             {
                 "name": "Samsung Hall IC",
                 "vendor": "Samsung Inc.",
-                "power_ma": 0.75,
-                "resolution": 1
+                "version": 1,
+                "type": 65600,
+                "power_ma": 0.75
             },
             {
                 "name": "Screen Orientation Sensor",
                 "vendor": "Samsung Electronics",
-                "power_ma": 0,
-                "resolution": 255
+                "version": 3,
+                "type": 27,
+                "power_ma": 0
             },
             {
                 "name": "Calibrated Lux Sensor",
                 "vendor": "Samsung",
-                "power_ma": 0.75,
-                "resolution": 1
+                "version": 1,
+                "type": 65616,
+                "power_ma": 0.75
             },
             {
                 "name": "Ear Hover Proximity Sensor",
                 "vendor": "Samsung",
-                "power_ma": 0.75,
-                "resolution": 1
+                "version": 1,
+                "type": 8,
+                "power_ma": 0.75
             },
             {
                 "name": "Motion Sensor",
                 "vendor": "Samsung Electronics",
-                "power_ma": 0,
-                "resolution": 0
+                "version": 1,
+                "type": 65559,
+                "power_ma": 0
             },
             {
                 "name": "Auto Brightness Sensor",
                 "vendor": "Samsung",
-                "power_ma": 0.75,
-                "resolution": 1
+                "version": 1,
+                "type": 65601,
+                "power_ma": 0.75
             },
             {
                 "name": "Camera Light Sensor",
                 "vendor": "Samsung",
-                "power_ma": 0.75,
-                "resolution": 1
+                "version": 1,
+                "type": 65604,
+                "power_ma": 0.75
             },
             {
                 "name": "Samsung Game Rotation Vector Sensor",
                 "vendor": "Samsung Electronics",
-                "power_ma": 2.01,
-                "resolution": 5.9604645E-8
+                "version": 1,
+                "type": 15,
+                "power_ma": 2.01
             },
             {
                 "name": "Samsung Gravity Sensor",
                 "vendor": "Samsung Electronics",
-                "power_ma": 2.01,
-                "resolution": 0.0023942017
+                "version": 1,
+                "type": 9,
+                "power_ma": 2.01
+            },
+            {
+                "name": "Samsung Linear Acceleration Sensor",
+                "vendor": "Samsung Electronics",
+                "version": 1,
+                "type": 10,
+                "power_ma": 2.01
+            },
+            {
+                "name": "Samsung Rotation Vector Sensor",
+                "vendor": "Samsung Electronics",
+                "version": 3,
+                "type": 11,
+                "power_ma": 2.01
+            },
+            {
+                "name": "Samsung Orientation Sensor",
+                "vendor": "Samsung Electronics",
+                "version": 1,
+                "type": 3,
+                "power_ma": 2.01
             }
         ],
         "cameras": [
@@ -215,19 +266,22 @@
                 "id": "0",
                 "facing": "BACK",
                 "sensor_size_mm": "5.184x3.888",
-                "has_flash": true
+                "has_flash": true,
+                "raw_capable": false
             },
             {
                 "id": "1",
                 "facing": "FRONT",
                 "sensor_size_mm": "4.2192x3.1644",
-                "has_flash": false
+                "has_flash": false,
+                "raw_capable": false
             },
             {
                 "id": "2",
                 "facing": "FRONT",
                 "sensor_size_mm": "5.184x3.888",
-                "has_flash": false
+                "has_flash": false,
+                "raw_capable": false
             }
         ],
         "audio": {
@@ -242,6 +296,7 @@
         "security_patch": "2023-03-01",
         "fingerprint": "samsung\/a50eea\/a50:11\/RP1A.200720.012\/A505FNXXU9CWB4:user\/release-keys",
         "kernel_version": "4.14.113-24323734",
+        "kernel_cmdline": "unavailable",
         "vm_version": "2.1.0",
         "language": "en_US",
         "timezone": "Africa\/Casablanca",
@@ -250,66 +305,56 @@
         "developer_options": true
     },
     "partitions": {
+        "mount_table": "\/dev\/root \/ ext4 ro,seclabel,nodev,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\ntmpfs \/dev tmpfs rw,seclabel,nosuid,relatime,mode=755 0 0\ndevpts \/dev\/pts devpts rw,seclabel,relatime,mode=600,ptmxmode=000 0 0\nnone \/dev\/cg2_bpf cgroup2 rw,nosuid,nodev,noexec,relatime 0 0\nnone \/dev\/cpuctl cgroup rw,nosuid,nodev,noexec,relatime,cpu 0 0\nnone \/dev\/cpuset cgroup rw,nosuid,nodev,noexec,relatime,cpuset,noprefix,release_agent=\/sbin\/cpuset_release_agent 0 0\nnone \/dev\/freezer cgroup rw,nosuid,nodev,noexec,relatime,freezer 0 0\nnone \/dev\/memcg cgroup rw,nosuid,nodev,noexec,relatime,memory 0 0\nnone \/dev\/stune cgroup rw,nosuid,nodev,noexec,relatime,schedtune 0 0\nadb \/dev\/usb-ffs\/adb functionfs rw,relatime 0 0\nproc \/proc proc rw,relatime,gid=3009,hidepid=2 0 0\nsysfs \/sys sysfs rw,seclabel,relatime 0 0\nselinuxfs \/sys\/fs\/selinux selinuxfs rw,relatime 0 0\ntracefs \/sys\/kernel\/tracing tracefs rw,seclabel,relatime 0 0\n\/sys\/kernel\/debug \/sys\/kernel\/debug debugfs rw,seclabel,relatime 0 0\ntracefs \/sys\/kernel\/debug\/tracing tracefs rw,seclabel,relatime 0 0\nnone \/sys\/fs\/fuse\/connections fusectl rw,relatime 0 0\nbpf \/sys\/fs\/bpf bpf rw,nosuid,nodev,noexec,relatime 0 0\npstore \/sys\/fs\/pstore pstore rw,seclabel,nosuid,nodev,noexec,relatime 0 0\ntmpfs \/mnt tmpfs rw,seclabel,nosuid,nodev,noexec,relatime,mode=755,gid=1000 0 0\ntmpfs \/mnt\/installer tmpfs rw,seclabel,nosuid,nodev,noexec,relatime,mode=755,gid=1000 0 0\n\/dev\/fuse \/mnt\/installer\/0\/emulated fuse rw,lazytime,nosuid,nodev,noexec,noatime,user_id=0,group_id=0,allow_other 0 0\n\/data\/media \/mnt\/installer\/0\/emulated\/0\/Android\/data sdcardfs rw,nosuid,nodev,noexec,noatime,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,reserved=20MB 0 0\n\/data\/media \/mnt\/installer\/0\/emulated\/0\/Android\/obb sdcardfs rw,nosuid,nodev,noexec,noatime,fsuid=1023,fsgid=1023,gid=9997,multiuser,mask=7,derive_gid,default_normal,reserved=20MB 0 0\ntmpfs \/mnt\/androidwritable tmpfs rw,seclabel,nosuid,nodev,noexec,relatime,mode=755,gid=1000 0 0\n\/dev\/fuse \/mnt\/androidwritable\/0\/emulated fuse rw,lazytime,nosuid,nodev,noexec,noatime,user_id=0,group_id=0,allow_other 0 0\n\/data\/media \/mnt\/androidwritable\/0\/emulated\/0\/Android\/data sdcardfs rw,nosuid,nodev,noexec,noatime,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,reserved=20MB 0 0\n\/data\/media \/mnt\/androidwritable\/0\/emulated\/0\/Android\/obb sdcardfs rw,nosuid,nodev,noexec,noatime,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,reserved=20MB 0 0\ntmpfs \/mnt\/sde tmpfs rw,seclabel,relatime,mode=700 0 0\n\/dev\/block\/platform\/13520000.ufs\/by-name\/efs \/mnt\/vendor\/efs ext4 rw,seclabel,nosuid,nodev,noatime,journal_checksum,noauto_da_alloc,i_version 0 0\n\/dev\/block\/platform\/13520000.ufs\/by-name\/cpefs \/mnt\/vendor\/cpefs ext4 rw,seclabel,nosuid,nodev,noatime,journal_checksum,noauto_da_alloc,i_version 0 0\n\/data\/media \/mnt\/runtime\/default\/emulated sdcardfs rw,nosuid,nodev,noexec,noatime,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,reserved=20MB 0 0\n\/data\/media \/mnt\/runtime\/read\/emulated sdcardfs rw,nosuid,nodev,noexec,noatime,fsuid=1023,fsgid=1023,gid=9997,multiuser,mask=23,derive_gid,default_normal,reserved=20MB 0 0\n\/data\/media \/mnt\/runtime\/write\/emulated sdcardfs rw,nosuid,nodev,noexec,noatime,fsuid=1023,fsgid=1023,gid=9997,multiuser,mask=7,derive_gid,default_normal,reserved=20MB 0 0\n\/data\/media \/mnt\/runtime\/full\/emulated sdcardfs rw,nosuid,nodev,noexec,noatime,fsuid=1023,fsgid=1023,gid=9997,multiuser,mask=7,derive_gid,default_normal,reserved=20MB 0 0\n\/dev\/fuse \/mnt\/user\/0\/emulated fuse rw,lazytime,nosuid,nodev,noexec,noatime,user_id=0,group_id=0,allow_other 0 0\n\/data\/media \/mnt\/user\/0\/emulated\/0\/Android\/data sdcardfs rw,nosuid,nodev,noexec,noatime,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,reserved=20MB 0 0\n\/data\/media \/mnt\/user\/0\/emulated\/0\/Android\/obb sdcardfs rw,nosuid,nodev,noexec,noatime,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,reserved=20MB 0 0\n\/data\/media \/mnt\/pass_through\/0\/emulated sdcardfs rw,nosuid,nodev,noexec,noatime,fsuid=1023,fsgid=1023,gid=9997,multiuser,mask=7,derive_gid,default_normal,reserved=20MB 0 0\n\/dev\/block\/dm-1 \/product ext4 ro,seclabel,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\n\/dev\/block\/dm-2 \/vendor ext4 ro,seclabel,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\ntmpfs \/apex tmpfs rw,seclabel,nosuid,nodev,noexec,relatime,mode=755 0 0\n\/dev\/root \/apex\/com.android.permission ext4 ro,seclabel,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\n\/dev\/root \/apex\/com.android.vndk.v30 ext4 ro,seclabel,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\n\/dev\/root \/apex\/com.android.conscrypt ext4 ro,seclabel,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\n\/dev\/root \/apex\/com.android.extservices ext4 ro,seclabel,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\n\/dev\/root \/apex\/com.android.tzdata ext4 ro,seclabel,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\n\/dev\/root \/apex\/com.android.runtime ext4 ro,seclabel,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\n\/dev\/root \/apex\/com.android.art ext4 ro,seclabel,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\n\/dev\/root \/apex\/com.android.mediaprovider ext4 ro,seclabel,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\n\/dev\/root \/apex\/com.android.resolv ext4 ro,seclabel,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\n\/dev\/root \/apex\/com.android.sdkext ext4 ro,seclabel,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\n\/dev\/root \/apex\/com.android.ipsec ext4 ro,seclabel,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\n\/dev\/root \/apex\/com.android.adbd ext4 ro,seclabel,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\n\/dev\/root \/apex\/com.android.media ext4 ro,seclabel,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\n\/dev\/root \/apex\/com.android.wifi ext4 ro,seclabel,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\n\/dev\/root \/apex\/com.android.i18n ext4 ro,seclabel,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\n\/dev\/root \/apex\/com.android.tethering ext4 ro,seclabel,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\n\/dev\/root \/apex\/com.android.os.statsd ext4 ro,seclabel,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\n\/dev\/root \/apex\/com.android.media.swcodec ext4 ro,seclabel,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\n\/dev\/root \/apex\/com.android.neuralnetworks ext4 ro,seclabel,relatime,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version 0 0\ntmpfs \/linkerconfig tmpfs rw,seclabel,nosuid,nodev,noexec,relatime,mode=755 0 0\ntmpfs \/linkerconfig tmpfs rw,seclabel,nosuid,nodev,noexec,relatime,mode=755 0 0\nnone \/acct cgroup rw,nosuid,nodev,noexec,relatime,cpuacct 0 0\nnone \/config configfs rw,nosuid,nodev,noexec,relatime 0 0\n\/dev\/block\/by-name\/omr \/omr ext4 rw,seclabel,nosuid,nodev,noatime,journal_checksum,noauto_da_alloc,i_version 0 0\n\/dev\/block\/platform\/13520000.ufs\/by-name\/cache \/cache ext4 rw,seclabel,nosuid,nodev,noatime,journal_checksum,noauto_da_alloc,i_version 0 0\n\/dev\/block\/platform\/13520000.ufs\/by-name\/userdata \/data ext4 rw,seclabel,nosuid,nodev,noatime,journal_checksum,noauto_da_alloc,resgid=5678,i_version 0 0\n\/dev\/block\/platform\/13520000.ufs\/by-name\/userdata \/data\/user\/0 ext4 rw,seclabel,nosuid,nodev,noatime,journal_checksum,noauto_da_alloc,resgid=5678,i_version 0 0\n\/dev\/block\/platform\/13520000.ufs\/by-name\/sec_efs \/efs ext4 rw,seclabel,nosuid,nodev,noatime,journal_checksum,noauto_da_alloc,i_version 0 0\ntmpfs \/data_mirror tmpfs rw,seclabel,nosuid,nodev,noexec,relatime,mode=700,gid=1000 0 0\n\/dev\/block\/platform\/13520000.ufs\/by-name\/userdata \/data_mirror\/data_ce\/null ext4 rw,seclabel,nosuid,nodev,noatime,journal_checksum,noauto_da_alloc,resgid=5678,i_version 0 0\n\/dev\/block\/platform\/13520000.ufs\/by-name\/userdata \/data_mirror\/data_ce\/null\/0 ext4 rw,seclabel,nosuid,nodev,noatime,journal_checksum,noauto_da_alloc,resgid=5678,i_version 0 0\n\/dev\/block\/platform\/13520000.ufs\/by-name\/userdata \/data_mirror\/data_de\/null ext4 rw,seclabel,nosuid,nodev,noatime,journal_checksum,noauto_da_alloc,resgid=5678,i_version 0 0\n\/dev\/block\/platform\/13520000.ufs\/by-name\/userdata \/data_mirror\/cur_profiles ext4 rw,seclabel,nosuid,nodev,noatime,journal_checksum,noauto_da_alloc,resgid=5678,i_version 0 0\ntmpfs \/storage tmpfs rw,seclabel,nosuid,nodev,noexec,relatime,mode=755,gid=1000 0 0\n\/dev\/fuse \/storage\/emulated fuse rw,lazytime,nosuid,nodev,noexec,noatime,user_id=0,group_id=0,allow_other 0 0\n\/data\/media \/storage\/emulated\/0\/Android\/data sdcardfs rw,nosuid,nodev,noexec,noatime,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,reserved=20MB 0 0\n\/data\/media \/storage\/emulated\/0\/Android\/obb sdcardfs rw,nosuid,nodev,noexec,noatime,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,reserved=20MB 0 0\ntmpfs \/data\/data tmpfs rw,seclabel,nosuid,nodev,noexec,relatime,mode=751 0 0\ntmpfs \/data\/user tmpfs rw,seclabel,nosuid,nodev,noexec,relatime,mode=751 0 0\ntmpfs \/data\/user_de tmpfs rw,seclabel,nosuid,nodev,noexec,relatime,mode=751 0 0\n\/dev\/block\/platform\/13520000.ufs\/by-name\/userdata \/data\/user_de\/0\/com.example.studentfetcher ext4 rw,seclabel,nosuid,nodev,noatime,journal_checksum,noauto_da_alloc,resgid=5678,i_version 0 0\n\/dev\/block\/platform\/13520000.ufs\/by-name\/userdata \/data\/data\/com.example.studentfetcher ext4 rw,seclabel,nosuid,nodev,noatime,journal_checksum,noauto_da_alloc,resgid=5678,i_version 0 0\n\/dev\/block\/platform\/13520000.ufs\/by-name\/userdata \/data\/user_de\/0\/com.google.android.gms ext4 rw,seclabel,nosuid,nodev,noatime,journal_checksum,noauto_da_alloc,resgid=5678,i_version 0 0\n\/dev\/block\/platform\/13520000.ufs\/by-name\/userdata \/data\/data\/com.google.android.gms ext4 rw,seclabel,nosuid,nodev,noatime,journal_checksum,noauto_da_alloc,resgid=5678,i_version 0 0\ntmpfs \/data\/misc\/profiles\/cur tmpfs rw,seclabel,nosuid,nodev,noexec,relatime,mode=751 0 0\n\/dev\/block\/platform\/13520000.ufs\/by-name\/userdata \/data\/misc\/profiles\/cur\/0\/com.example.studentfetcher ext4 rw,seclabel,nosuid,nodev,noatime,journal_checksum,noauto_da_alloc,resgid=5678,i_version 0 0",
         "data": {
             "path": "\/data",
-            "total_gb": 111.01117706298828,
-            "available_gb": 9.751731872558594,
-            "used_pct": 91.2155405153254
+            "total_bytes": 119197343744,
+            "available_bytes": 8784850944,
+            "free_inodes": 2177507
         },
         "root": {
             "path": "\/system",
-            "total_gb": 5.014057159423828,
-            "available_gb": 0.09269332885742188,
-            "used_pct": 98.15133083029964
-        },
-        "download": {
-            "path": "\/storage\/emulated\/0\/Download",
-            "total_gb": 110.99164581298828,
-            "available_gb": 9.732200622558594,
-            "used_pct": 91.23159175515197
+            "total_bytes": 5383802880,
+            "available_bytes": 99528704,
+            "free_inodes": 24299
         },
         "cache": {
             "path": "\/data\/cache",
-            "total_gb": 111.01117706298828,
-            "available_gb": 9.751731872558594,
-            "used_pct": 91.2155405153254
+            "total_bytes": 119197343744,
+            "available_bytes": 8784850944,
+            "free_inodes": 2177507
         }
     },
     "health": {
         "battery": {
-            "level": 21,
-            "voltage_mv": 3724,
-            "temp_c": 36.8,
+            "level": 17,
+            "voltage_mv": 3702,
+            "temp_c": 38.6,
             "health": "GOOD"
         },
         "ram": {
             "total_mb": 3604,
-            "available_mb": 669,
-            "low_memory_threshold_mb": 141,
-            "is_low_memory": false
+            "available_mb": 795,
+            "low_memory": false
         }
     },
     "network": {
         "interfaces": [
             {
                 "name": "wlan0",
-                "display_name": "wlan0",
                 "addresses": [
                     "fe80::f802:69ff:feb8:905f%wlan0",
                     "192.168.11.142"
                 ],
-                "is_up": true,
-                "is_loopback": false
+                "is_up": true
             },
             {
                 "name": "lo",
-                "display_name": "lo",
                 "addresses": [
                     "::1",
                     "127.0.0.1"
                 ],
-                "is_up": true,
-                "is_loopback": true
+                "is_up": true
             }
         ],
         "vpn_active": false,
@@ -319,219 +364,123 @@
         "codecs": [
             {
                 "name": "c2.sec.amrnb.decoder",
-                "is_encoder": false,
-                "supported_types": [
-                    "audio\/3gpp"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "c2.sec.amrwb.decoder",
-                "is_encoder": false,
-                "supported_types": [
-                    "audio\/amr-wb"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "c2.sec.flac.decoder",
-                "is_encoder": false,
-                "supported_types": [
-                    "audio\/flac"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "c2.sec.ima.decoder",
-                "is_encoder": false,
-                "supported_types": [
-                    "audio\/x-ima"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "c2.sec.mp3.decoder",
-                "is_encoder": false,
-                "supported_types": [
-                    "audio\/mpeg"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "c2.sec.mp43.decoder",
-                "is_encoder": false,
-                "supported_types": [
-                    "video\/mp43"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "c2.sec.vc1.decoder",
-                "is_encoder": false,
-                "supported_types": [
-                    "video\/wvc1",
-                    "video\/x-ms-wmv"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "c2.sec.wma.decoder",
-                "is_encoder": false,
-                "supported_types": [
-                    "audio\/x-ms-wma"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "c2.sec.wmv7.decoder",
-                "is_encoder": false,
-                "supported_types": [
-                    "video\/x-ms-wmv7"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "c2.sec.wmv8.decoder",
-                "is_encoder": false,
-                "supported_types": [
-                    "video\/x-ms-wmv8"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "OMX.SEC.adpcm.dec",
-                "is_encoder": false,
-                "supported_types": [
-                    "audio\/x-ima"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "OMX.SEC.amr.dec",
-                "is_encoder": false,
-                "supported_types": [
-                    "audio\/3gpp",
-                    "audio\/amr-wb"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "OMX.SEC.flac.dec",
-                "is_encoder": false,
-                "supported_types": [
-                    "audio\/flac"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "OMX.SEC.mp3.dec",
-                "is_encoder": false,
-                "supported_types": [
-                    "audio\/mpeg",
-                    "audio\/mpeg-L1",
-                    "audio\/mpeg-L2"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "OMX.SEC.vc1.sw.dec",
-                "is_encoder": false,
-                "supported_types": [
-                    "video\/wvc1"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "c2.dolby.ac4.decoder",
-                "is_encoder": false,
-                "supported_types": [
-                    "audio\/ac4"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "OMX.dolby.ac4.decoder",
-                "is_encoder": false,
-                "supported_types": [
-                    "audio\/ac4"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "c2.dolby.eac3.decoder",
-                "is_encoder": false,
-                "supported_types": [
-                    "audio\/ac3",
-                    "audio\/eac3",
-                    "audio\/eac3-joc"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "c2.android.aac.decoder",
-                "is_encoder": false,
-                "supported_types": [
-                    "audio\/mp4a-latm"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "OMX.google.aac.decoder",
-                "is_encoder": false,
-                "supported_types": [
-                    "audio\/mp4a-latm"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "c2.android.aac.encoder",
-                "is_encoder": true,
-                "supported_types": [
-                    "audio\/mp4a-latm"
-                ]
+                "is_encoder": true
             },
             {
                 "name": "OMX.google.aac.encoder",
-                "is_encoder": true,
-                "supported_types": [
-                    "audio\/mp4a-latm"
-                ]
+                "is_encoder": true
             },
             {
                 "name": "c2.android.amrnb.decoder",
-                "is_encoder": false,
-                "supported_types": [
-                    "audio\/3gpp"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "OMX.google.amrnb.decoder",
-                "is_encoder": false,
-                "supported_types": [
-                    "audio\/3gpp"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "c2.android.amrnb.encoder",
-                "is_encoder": true,
-                "supported_types": [
-                    "audio\/3gpp"
-                ]
+                "is_encoder": true
             },
             {
                 "name": "OMX.google.amrnb.encoder",
-                "is_encoder": true,
-                "supported_types": [
-                    "audio\/3gpp"
-                ]
+                "is_encoder": true
             },
             {
                 "name": "c2.android.amrwb.decoder",
-                "is_encoder": false,
-                "supported_types": [
-                    "audio\/amr-wb"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "OMX.google.amrwb.decoder",
-                "is_encoder": false,
-                "supported_types": [
-                    "audio\/amr-wb"
-                ]
+                "is_encoder": false
             },
             {
                 "name": "c2.android.amrwb.encoder",
-                "is_encoder": true,
-                "supported_types": [
-                    "audio\/amr-wb"
-                ]
+                "is_encoder": true
             },
             {
                 "name": "OMX.google.amrwb.encoder",
-                "is_encoder": true,
-                "supported_types": [
-                    "audio\/amr-wb"
-                ]
+                "is_encoder": true
             }
         ]
     }
