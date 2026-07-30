@@ -2,9 +2,9 @@
     "id": {
         "android_id": "0e92a044c642948b",
         "device_folder": "SM-A505FN_0e92a044c642948b",
-        "timestamp": 1785363409153,
-        "date": "2026-07-29 23:16:49",
-        "uptime_ms": 131152930
+        "timestamp": 1785407627350,
+        "date": "2026-07-30 11:33:47",
+        "uptime_ms": 690463
     },
     "hardware": {
         "model": "SM-A505FN",
@@ -192,8 +192,8 @@
         "data": {
             "path": "\/data",
             "total_gb": 111.01117706298828,
-            "available_gb": 17.634796142578125,
-            "used_pct": 84.11439585711982
+            "available_gb": 14.46883773803711,
+            "used_pct": 86.96632346324242
         },
         "root": {
             "path": "\/system",
@@ -204,26 +204,26 @@
         "download": {
             "path": "\/storage\/emulated\/0\/Download",
             "total_gb": 110.99164581298828,
-            "available_gb": 17.615264892578125,
-            "used_pct": 84.1291975053164
+            "available_gb": 14.44930648803711,
+            "used_pct": 86.98162696642683
         },
         "cache": {
             "path": "\/data\/cache",
             "total_gb": 111.01117706298828,
-            "available_gb": 17.634796142578125,
-            "used_pct": 84.11439585711982
+            "available_gb": 14.46883773803711,
+            "used_pct": 86.96632346324242
         }
     },
     "health": {
         "battery": {
-            "level": 27,
-            "voltage_mv": 3727,
-            "temp_c": 30.3,
+            "level": 5,
+            "voltage_mv": 3869,
+            "temp_c": 33.5,
             "health": "GOOD"
         },
         "ram": {
             "total_mb": 3604,
-            "available_mb": 642,
+            "available_mb": 655,
             "low_memory_threshold_mb": 141,
             "is_low_memory": false
         }
@@ -249,16 +249,6 @@
                 ],
                 "is_up": true,
                 "is_loopback": true
-            },
-            {
-                "name": "rndis0",
-                "display_name": "rndis0",
-                "addresses": [
-                    "fe80::3cf4:3fff:feea:4157%rndis0",
-                    "192.168.255.71"
-                ],
-                "is_up": true,
-                "is_loopback": false
             }
         ],
         "vpn_active": false,
