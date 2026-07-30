@@ -2,9 +2,9 @@
     "id": {
         "android_id": "0e92a044c642948b",
         "device_folder": "SM-A505FN_0e92a044c642948b",
-        "timestamp": 1785423951725,
-        "date": "2026-07-30 16:05:51",
-        "uptime_ms": 17014821
+        "timestamp": 1785426510868,
+        "date": "2026-07-30 16:48:30",
+        "uptime_ms": 19573964
     },
     "hardware": {
         "model": "SM-A505FN",
@@ -148,6 +148,66 @@
                 "vendor": "Samsung Inc.",
                 "power_ma": 0.16,
                 "resolution": 1
+            },
+            {
+                "name": "Hover Proximity",
+                "vendor": "Samsung Inc.",
+                "power_ma": 0.75,
+                "resolution": 1
+            },
+            {
+                "name": "Samsung Hall IC",
+                "vendor": "Samsung Inc.",
+                "power_ma": 0.75,
+                "resolution": 1
+            },
+            {
+                "name": "Screen Orientation Sensor",
+                "vendor": "Samsung Electronics",
+                "power_ma": 0,
+                "resolution": 255
+            },
+            {
+                "name": "Calibrated Lux Sensor",
+                "vendor": "Samsung",
+                "power_ma": 0.75,
+                "resolution": 1
+            },
+            {
+                "name": "Ear Hover Proximity Sensor",
+                "vendor": "Samsung",
+                "power_ma": 0.75,
+                "resolution": 1
+            },
+            {
+                "name": "Motion Sensor",
+                "vendor": "Samsung Electronics",
+                "power_ma": 0,
+                "resolution": 0
+            },
+            {
+                "name": "Auto Brightness Sensor",
+                "vendor": "Samsung",
+                "power_ma": 0.75,
+                "resolution": 1
+            },
+            {
+                "name": "Camera Light Sensor",
+                "vendor": "Samsung",
+                "power_ma": 0.75,
+                "resolution": 1
+            },
+            {
+                "name": "Samsung Game Rotation Vector Sensor",
+                "vendor": "Samsung Electronics",
+                "power_ma": 2.01,
+                "resolution": 5.9604645E-8
+            },
+            {
+                "name": "Samsung Gravity Sensor",
+                "vendor": "Samsung Electronics",
+                "power_ma": 2.01,
+                "resolution": 0.0023942017
             }
         ],
         "cameras": [
@@ -186,14 +246,15 @@
         "language": "en_US",
         "timezone": "Africa\/Casablanca",
         "ui_mode": "DARK",
-        "selinux_context": "u:r:untrusted_app:s0:c44,c257,c512,c768"
+        "selinux_context": "u:r:untrusted_app:s0:c44,c257,c512,c768",
+        "developer_options": true
     },
     "partitions": {
         "data": {
             "path": "\/data",
             "total_gb": 111.01117706298828,
-            "available_gb": 10.484970092773438,
-            "used_pct": 90.55503205157062
+            "available_gb": 9.751731872558594,
+            "used_pct": 91.2155405153254
         },
         "root": {
             "path": "\/system",
@@ -204,26 +265,26 @@
         "download": {
             "path": "\/storage\/emulated\/0\/Download",
             "total_gb": 110.99164581298828,
-            "available_gb": 10.465438842773438,
-            "used_pct": 90.57096706142475
+            "available_gb": 9.732200622558594,
+            "used_pct": 91.23159175515197
         },
         "cache": {
             "path": "\/data\/cache",
             "total_gb": 111.01117706298828,
-            "available_gb": 10.484970092773438,
-            "used_pct": 90.55503205157062
+            "available_gb": 9.751731872558594,
+            "used_pct": 91.2155405153254
         }
     },
     "health": {
         "battery": {
             "level": 21,
-            "voltage_mv": 3708,
-            "temp_c": 34.9,
+            "voltage_mv": 3724,
+            "temp_c": 36.8,
             "health": "GOOD"
         },
         "ram": {
             "total_mb": 3604,
-            "available_mb": 619,
+            "available_mb": 669,
             "low_memory_threshold_mb": 141,
             "is_low_memory": false
         }
