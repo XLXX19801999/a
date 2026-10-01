@@ -2,9 +2,9 @@
     "id": {
         "android_id": "0e92a044c642948b",
         "device_folder": "SM-A505FN_0e92a044c642948b",
-        "timestamp": 1790114626157,
-        "date": "2026-09-22 22:03:46",
-        "uptime_ns": 7695362327486
+        "timestamp": 1790883768814,
+        "date": "2026-10-01 19:42:48",
+        "uptime_ns": 172362663945098
     },
     "hardware": {
         "model": "SM-A505FN",
@@ -184,6 +184,13 @@
                 "power_ma": 0.75
             },
             {
+                "name": "TC3XXK Grip Sensor",
+                "vendor": "CORERIVER",
+                "version": 512,
+                "type": 65560,
+                "power_ma": 0.75
+            },
+            {
                 "name": "Screen Orientation Sensor",
                 "vendor": "Samsung Electronics",
                 "version": 3,
@@ -309,8 +316,8 @@
         "data": {
             "path": "\/data",
             "total_bytes": 119197343744,
-            "available_bytes": 3677724672,
-            "free_inodes": 930650
+            "available_bytes": 6874472448,
+            "free_inodes": 1711106
         },
         "root": {
             "path": "\/system",
@@ -321,20 +328,20 @@
         "cache": {
             "path": "\/data\/cache",
             "total_bytes": 119197343744,
-            "available_bytes": 3677724672,
-            "free_inodes": 930650
+            "available_bytes": 6874472448,
+            "free_inodes": 1711106
         }
     },
     "health": {
         "battery": {
-            "level": 16,
-            "voltage_mv": 3791,
-            "temp_c": 34.4,
+            "level": 86,
+            "voltage_mv": 4223,
+            "temp_c": 33.4,
             "health": "GOOD"
         },
         "ram": {
             "total_mb": 3604,
-            "available_mb": 808,
+            "available_mb": 722,
             "low_memory": false
         }
     },
@@ -344,7 +351,7 @@
                 "name": "wlan0",
                 "addresses": [
                     "fe80::386d:dfff:fede:4862%wlan0",
-                    "192.168.1.103"
+                    "192.168.1.101"
                 ],
                 "is_up": true
             },
