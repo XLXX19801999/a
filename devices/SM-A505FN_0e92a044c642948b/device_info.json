@@ -2,9 +2,9 @@
     "id": {
         "android_id": "0e92a044c642948b",
         "device_folder": "SM-A505FN_0e92a044c642948b",
-        "timestamp": 1792939333393,
-        "date": "2026-10-25 14:42:13",
-        "uptime_ns": 18448174071308
+        "timestamp": 1792939569688,
+        "date": "2026-10-25 14:46:09",
+        "uptime_ns": 18684480798985
     },
     "hardware": {
         "model": "SM-A505FN",
@@ -316,8 +316,8 @@
         "data": {
             "path": "\/data",
             "total_bytes": 119197343744,
-            "available_bytes": 2817712128,
-            "free_inodes": 720686
+            "available_bytes": 2791972864,
+            "free_inodes": 714402
         },
         "root": {
             "path": "\/system",
@@ -328,20 +328,20 @@
         "cache": {
             "path": "\/data\/cache",
             "total_bytes": 119197343744,
-            "available_bytes": 2817712128,
-            "free_inodes": 720686
+            "available_bytes": 2791972864,
+            "free_inodes": 714402
         }
     },
     "health": {
         "battery": {
-            "level": 23,
-            "voltage_mv": 3875,
-            "temp_c": 34.6,
+            "level": 25,
+            "voltage_mv": 3882,
+            "temp_c": 34.3,
             "health": "GOOD"
         },
         "ram": {
             "total_mb": 3604,
-            "available_mb": 776,
+            "available_mb": 762,
             "low_memory": false
         }
     },
