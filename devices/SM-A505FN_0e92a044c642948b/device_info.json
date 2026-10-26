@@ -2,9 +2,9 @@
     "id": {
         "android_id": "0e92a044c642948b",
         "device_folder": "SM-A505FN_0e92a044c642948b",
-        "timestamp": 1793029870787,
-        "date": "2026-10-26 15:51:10",
-        "uptime_ns": 108983676257051
+        "timestamp": 1793034222436,
+        "date": "2026-10-26 17:03:42",
+        "uptime_ns": 113335735052784
     },
     "hardware": {
         "model": "SM-A505FN",
@@ -316,8 +316,8 @@
         "data": {
             "path": "\/data",
             "total_bytes": 119197343744,
-            "available_bytes": 1867685888,
-            "free_inodes": 488746
+            "available_bytes": 1851944960,
+            "free_inodes": 484903
         },
         "root": {
             "path": "\/system",
@@ -328,20 +328,20 @@
         "cache": {
             "path": "\/data\/cache",
             "total_bytes": 119197343744,
-            "available_bytes": 1867685888,
-            "free_inodes": 488746
+            "available_bytes": 1851944960,
+            "free_inodes": 484903
         }
     },
     "health": {
         "battery": {
-            "level": 22,
-            "voltage_mv": 3641,
-            "temp_c": 31.7,
+            "level": 11,
+            "voltage_mv": 3405,
+            "temp_c": 31.5,
             "health": "GOOD"
         },
         "ram": {
             "total_mb": 3604,
-            "available_mb": 673,
+            "available_mb": 729,
             "low_memory": false
         }
     },
@@ -350,8 +350,8 @@
             {
                 "name": "wlan0",
                 "addresses": [
-                    "fe80::4058:deff:fe28:20c2%wlan0",
-                    "100.95.144.84"
+                    "fe80::386d:dfff:fede:4862%wlan0",
+                    "192.168.1.100"
                 ],
                 "is_up": true
             },
