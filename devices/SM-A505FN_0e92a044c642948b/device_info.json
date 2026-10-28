@@ -2,9 +2,9 @@
     "id": {
         "android_id": "0e92a044c642948b",
         "device_folder": "SM-A505FN_0e92a044c642948b",
-        "timestamp": 1793207669067,
-        "date": "2026-10-28 17:14:29",
-        "uptime_ns": 11592207271285
+        "timestamp": 1793213988755,
+        "date": "2026-10-28 18:59:48",
+        "uptime_ns": 17911562874265
     },
     "hardware": {
         "model": "SM-A505FN",
@@ -21,8 +21,8 @@
         "bootloader": "A505FNXXU9CWB4",
         "cpu_cores": 8,
         "display": {
-            "width_px": 2340,
-            "height_px": 1080,
+            "width_px": 1080,
+            "height_px": 2340,
             "density_dpi": 480,
             "refresh_rate_hz": 60.000004,
             "hdr_supported_types": [],
@@ -316,8 +316,8 @@
         "data": {
             "path": "\/data",
             "total_bytes": 119197343744,
-            "available_bytes": 2191040512,
-            "free_inodes": 567690
+            "available_bytes": 2182217728,
+            "free_inodes": 565536
         },
         "root": {
             "path": "\/system",
@@ -328,20 +328,20 @@
         "cache": {
             "path": "\/data\/cache",
             "total_bytes": 119197343744,
-            "available_bytes": 2191040512,
-            "free_inodes": 567690
+            "available_bytes": 2182217728,
+            "free_inodes": 565536
         }
     },
     "health": {
         "battery": {
-            "level": 54,
-            "voltage_mv": 3782,
-            "temp_c": 36.1,
+            "level": 34,
+            "voltage_mv": 3619,
+            "temp_c": 33,
             "health": "GOOD"
         },
         "ram": {
             "total_mb": 3604,
-            "available_mb": 611,
+            "available_mb": 582,
             "low_memory": false
         }
     },
@@ -350,8 +350,8 @@
             {
                 "name": "wlan0",
                 "addresses": [
-                    "fe80::4058:deff:fe28:20c2%wlan0",
-                    "100.95.144.72"
+                    "fe80::386d:dfff:fede:4862%wlan0",
+                    "192.168.1.102"
                 ],
                 "is_up": true
             },
