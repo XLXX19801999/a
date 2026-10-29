@@ -2,9 +2,9 @@
     "id": {
         "android_id": "0e92a044c642948b",
         "device_folder": "SM-A505FN_0e92a044c642948b",
-        "timestamp": 1793261635585,
-        "date": "2026-10-29 08:13:55",
-        "uptime_ns": 4959254844536
+        "timestamp": 1793261675055,
+        "date": "2026-10-29 08:14:35",
+        "uptime_ns": 4997945639162
     },
     "hardware": {
         "model": "SM-A505FN",
@@ -341,7 +341,7 @@
         },
         "ram": {
             "total_mb": 3604,
-            "available_mb": 666,
+            "available_mb": 648,
             "low_memory": false
         }
     },
